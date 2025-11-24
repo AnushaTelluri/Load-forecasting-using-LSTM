@@ -152,3 +152,6 @@ def select_file_and_predict():
 if __name__ == "__main__":
     select_file_and_predict()
 
+
+# Kubernetes practice modification - Nov 23 2025
+print('Module 5 practice: Load forecasting LSTM model')
