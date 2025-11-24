@@ -160,3 +160,5 @@ np.savetxt(RESULT_TEST2_PATH, np.column_stack((pred_test2, true_test2)),
            header='Predicted\tTrue', fmt='%.6f')
 
 print(f"Prediction results saved to:\n - {RESULT_TEST1_PATH}\n - {RESULT_TEST2_PATH}")
+
+# Modified for Module 5 Kubernetes practice - Nov 23 2025
